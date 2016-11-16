@@ -9,3 +9,15 @@
     width: 100%;
   }
 }
+
+@media screen and(max-width: 767px) {
+ #message_name {
+   margin-bottom: 15px;
+ }
+}
+
+#age {
+  span {
+    display: inline-block;
+  }
+}
